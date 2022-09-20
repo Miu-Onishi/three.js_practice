@@ -1,2 +1,3 @@
-# three.js_practice
+# three.js のサンプル
+
 Created with CodeSandbox
